@@ -1,0 +1,8 @@
+# Supabase - Transaction Pooler
+DB_URL=jdbc:postgresql://aws-1-us-east-2.pooler.supabase.com:5432/postgres
+DB_USER=postgres.hzyywegqxdqcdjhmfxfq
+DB_PASSWORD=TU_PASSWORD_AQUI
+
+# Gmail SMTP
+SMTP_USER=TU_CORREO@gmail.com
+SMTP_PASSWORD=TU_APP_PASSWORD_DE_GMAIL

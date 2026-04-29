@@ -24,3 +24,7 @@ nbproject/
 # macOS / Windows
 .DS_Store
 Thumbs.db
+
+.idea/
+target/
+*.class

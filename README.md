@@ -22,7 +22,3 @@ Sistema de gestión de usuarios desarrollado en Java con integración a Supabase
 - Validación de credenciales
 - Control de intentos de login
 
-## Ejecución
-```bash
-mvn clean package
-java -jar target/gestor-usuarios.jar
